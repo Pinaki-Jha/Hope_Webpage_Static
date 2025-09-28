@@ -9,7 +9,7 @@ import logoTapas from '../assets/logo_tapas.png'
 const ReadHope=()=>{
 
     return(
-        <div className="h-screen w-full bg-cover bg-center"
+        <div className="min-h-screen w-full bg-cover bg-center"
         style={{ backgroundImage: `url(${bgHopeImage})` }}>
             
             <div className=" bg-gray-950 w-full h-12 flex justify-center align-middle drop-shadow-2xl">
